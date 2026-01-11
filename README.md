@@ -1,1 +1,1 @@
-# sp6-2_smart-table_starter
+# sp6-2_smart-table_starter https://github.com/LydaGro/smart-table.git
